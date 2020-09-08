@@ -22,7 +22,13 @@ setting erea
 #red{
 	width: 100%;
 	height: 300px;
-	background: red;
+	background: green;
+}
+
+#red{
+	width: 100%;
+	height: 300px;
+	background: black;
 }
 
 #blue{
