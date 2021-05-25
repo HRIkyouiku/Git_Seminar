@@ -28,7 +28,7 @@ setting erea
 #blue{
 	width: 50%;
 	height: 300px;
-	background: blue;
+	background: yellow;
 	float: left;
 }
 
@@ -38,4 +38,3 @@ setting erea
 	background:green ;
 	float: right;
 }
-
