@@ -28,13 +28,13 @@ setting erea
 #blue{
 	width: 50%;
 	height: 300px;
-	background: blue;
+	background: pink;
 	float: left;
 }
 
 #green{
 	width: 50%;
 	height: 300px;
-	background:green ;
+	background:pink;
 	float: right;
 }
