@@ -52,13 +52,13 @@ setting erea
 #red {
 	width: 100%;
 	height: 300px;
-	background: black;
+	background: palegreen;
 }
 
 #blue {
 	width: 50%;
 	height: 300px;
-	background: blue;
+	background: blueviolet;
 	float: left;
 }
 
