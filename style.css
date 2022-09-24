@@ -49,16 +49,17 @@ section {
 setting erea
 
 =====================*/
+
 #red {
-	width: 100%;
+	width: 90%;
 	height: 300px;
-	background: black;
+	background: #000;
 }
 
 #blue {
-	width: 50%;
+	width: 45%;
 	height: 300px;
-	background: blue;
+	background: #999;
 	float: left;
 }
 
