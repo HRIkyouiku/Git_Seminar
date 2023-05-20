@@ -22,20 +22,20 @@ setting erea
 #red{
 	width: 100%;
 	height: 300px;
-	background: beige;
+	background: paleturquoise;
 }
 
 #blue{
 	width: 50%;
 	height: 300px;
-	background: palegreen;
+	background: brown;
 	float: left;
 }
 
 #green{
 	width: 50%;
 	height: 300px;
-	background:gray;
+	background:gold;
 	float: right;
 }
 
