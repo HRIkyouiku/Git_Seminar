@@ -52,19 +52,19 @@ setting erea
 #red {
 	width: 100%;
 	height: 300px;
-	background: blueviolet;
+	background: khaki;
 }
 
 #blue {
 	width: 50%;
 	height: 300px;
-	background: red;
+	background: hotpink;
 	float: left;
 }
 
 #green {
 	width: 50%;
 	height: 300px;
-	background: burlywood;
+	background: aquamarine;
 	float: right;
 }
